@@ -25,7 +25,7 @@ Want to discuss, get help, or scream because you ran sudo rm -rf / --no-preserve
 Official Telegram Channel: @kireytools (https://t.me/kireytools)
 
 ### 💬 Support & Discussion  
-Join the chaos: @kireytoolschat (https://t.me/kireytools_chat)
+Join the chaos: @kireytoolschat (https://t.me/kireytoolschat)
 
 We’re friendly (usually)
 
