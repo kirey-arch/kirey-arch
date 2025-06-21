@@ -41,3 +41,4 @@ For now: ⭐️ this repo and tell a friend who uses Arch
 - Arch user since 2022
 - Obsessed with clean interfaces and terminal polish
 - Refuses to use anything bloated or ugly
+- I'm from Brazil!
