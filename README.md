@@ -22,10 +22,10 @@ Here are some tools I'm currently working on:
 Want to discuss, get help, or scream because you ran sudo rm -rf / --no-preserve-root by accident?
 
 ### 📣 Updates & Announcements  
-Official Telegram Channel: @kireytools (https://t.me/kireytools)
+Official Telegram Channel: [@kireytools](https://t.me/kireytools)
 
 ### 💬 Support & Discussion  
-Join the chaos: @kireytoolschat (https://t.me/kireytoolschat)
+Join the chaos: [@kireytoolschat](https://t.me/+uPm14MyilSs3MGUx)
 
 We’re friendly (usually)
 
